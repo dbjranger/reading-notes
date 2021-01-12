@@ -3,7 +3,7 @@
 ## Table of Contents
 ### Reading Assignments
 
-- [ ] 1. 
+- [ ] 1. class-01.md
 - [ ] 2. 
 - [ ] 3. 
 - [ ] 4. 
@@ -18,4 +18,6 @@
 - [ ] 13.
 - [ ] 14.
 - [ ] 15.
+
+TEST
 
