@@ -3,7 +3,7 @@
 ## Table of Contents
 ### Reading Assignments
 
-1. "[class-01.md]"
+1. [Class 1 Notes](class-01.md)
 2. 
 3. 
 4. 
