@@ -1,53 +1,39 @@
-Exercise: 1
-.
-|
-| - folder1
-|     | - folder_1_file1.html
-|     | - folder_1_file2.html
-| - folder2
-|     | - folder_2_file1.html
-|     | - folder_3
-|     |     | - folder_3_file1.html
-| - file_0.md
+<h3>Chapter 2</h3>
+<p>
+This was a very basic chapter in which it shows how to manipulate text, such as break lines, white space, line breaks, etc.
+</p>
 
+<h3>Chapter 10</h3>
+<p>
+Block Elements: <h1>-<h6>, <p>, <div>
 
-NOTE:
-Create a directory and enter it:  
+Inline Elements: <b>, <i>, <img>, <em>, <span>
 
-mkdir folder 1 && cd folder_1_file1.html
-touch 
+Linking to Stylesheets (href, type, rel)
 
-Remove Folders:
-rm -rf folder_name
+CSS Selectors:  Easiest way is to create classes
 
+CSS runs top to bottom, HOWEVER a more specific rule will take president over a less specific rule
 
-mdir folder1 -> creates a folder in our current terminal directory 
-cd folder 1
-touch folder_1_file1.html
-touch folder_1_file2.html
-cd ..
-touch folder 2
-cd folder 2
-touch folder_2_file1.html
-touch folder_3
-cd folder_3
-touch folder_3_file1.html
-cd ..
-cd ..
-touch file_0.md
-tree
+CSS treats HTML elements as is if it appears inside its own box
+</p>
 
-Cut and paste the javascript info in the <script> into the app.js
-where the script is, make another <link rel="styleshee" href="
+<h3>Chapter 2 Javascript</h3>
 
-app.js
-index.html (previous one used)
-style.css
+<p>
+Commenting:
+single line: //
+multiple lines: /*  CODE HERE  */
 
-In the head
+You can change the name of variables
 
-<head>
+Naming variables: begin with letter, $, or _    CANNOT start with a number
 
-<script src=app.js">
+Accessing arrays by indices [], and you can replace those values
+</p>
 
-</head>
+<h3>Chapter 4 Javascript</h3>
+
+<p>
+Comparison Operators
+</p>
