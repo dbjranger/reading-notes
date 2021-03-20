@@ -1,4 +1,5 @@
-# **Code 201 Reading Notes** :spiral_notepad:
+# **Code 201 Reading Notes - Foundations of Software Development** :spiral_notepad:
+
 
 ## Table of Contents
 ### Reading Assignments
@@ -19,7 +20,7 @@
 14. [Class 14 Notes](class-14.md)
 15. [Class 15 Notes](class-15.md)
 
-# **Code 301 Reading Notes** :spiral_notepad:
+# **Code 301 Reading Notes - Intermediate Software Development** :spiral_notepad:
 
 ## Table of Contents
 ### Reading Assignments
