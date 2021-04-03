@@ -2,6 +2,7 @@
 
 
 ## Table of Contents
+
 ### Reading Assignments
 
 1.  [Class 1 Notes](class-01.md)
@@ -23,6 +24,11 @@
 # **Code 301 Reading Notes - Intermediate Software Development** :spiral_notepad:
 
 ## Table of Contents
+
+301 Prepwork Reading/Assignment 
+
+1. (Objects and Inheritance): (301PreworkReading.md)
+
 ### Reading Assignments
 
 1.  [Class 1 Notes](class-301.md)
