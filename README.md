@@ -27,7 +27,7 @@
 
 301 Prepwork Reading/Assignment 
 
-1. (Objects and Inheritance): (301PreworkReading.md)
+1. [Objects and Inheritance](301PreworkReading.md)
 
 ### Reading Assignments
 
