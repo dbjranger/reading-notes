@@ -31,7 +31,7 @@
 
 ### Reading Assignments
 
-1.  [Class 1 Notes](class-301.md)
+1.  [Class 1 Notes](301.md)
 2.  [Class 2 Notes](class-302.md)
 3.  [Class 3 Notes](class-303.md)
 4.  [Class 4 Notes](class-304.md)
